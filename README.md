@@ -16,6 +16,5 @@ Quantum Bookstore is a simple Java-based simulation of an online bookstore syste
   
 ---
 
-## 📸 Output
-> 📷 **Insert your output screenshot below this line**  
+## 📸 Output 
 > ![Bookstore Output](output/result.png)
